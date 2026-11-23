@@ -1,1 +1,89 @@
-[]
+[
+ {
+  "id": "librivox-narrators",
+  "name": "LibriVox Narrators",
+  "genre": "Literary",
+  "description": "Eight LibriVox readers, trained on their public domain recordings.",
+  "engine": "qwen",
+  "author": "Babble",
+  "version": 1,
+  "file": "librivox-narrators-v1.narrator-pack",
+  "size": 2698480444,
+  "sha256": "cdcfe5e0ab57557cc1babd4093c517315ec5e4055409813d00b7ee88b03d84e6",
+  "url": "https://huggingface.co/Laking22/babble-voices/resolve/main/librivox-narrators-v1.narrator-pack",
+  "voices": [
+   {
+    "speaker": "clarke",
+    "name": "David Clarke",
+    "gender": "male",
+    "description": "fine-tuned",
+    "source": "LibriVox: The Memoirs of Sherlock Holmes; The Adventures of Sherlock Holmes (version 4) (http://librivox.org/the-memoirs-of-sherlock-holmes-by-sir-arthur-conan-doyle-2/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/clarke.mp3"
+   },
+   {
+    "speaker": "golding",
+    "name": "Ruth Golding",
+    "gender": "female",
+    "description": "fine-tuned",
+    "source": "LibriVox: Wuthering Heights (Solo Version) (http://librivox.org/wuthering-heights-by-emily-bronte-2/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/golding.mp3"
+   },
+   {
+    "speaker": "klett",
+    "name": "Elizabeth Klett",
+    "gender": "female",
+    "description": "fine-tuned",
+    "source": "LibriVox: Jane Eyre (version 3) (https://librivox.org/jane-eyre-version-3-by-charlotte-bronte/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/klett.mp3"
+   },
+   {
+    "speaker": "nelson",
+    "name": "Mark Nelson",
+    "gender": "male",
+    "description": "fine-tuned",
+    "source": "LibriVox: Crime and Punishment (Version 3) (http://librivox.org/crime-and-punishment-version-3-by-fyodor-dostoyevsky/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/nelson.mp3"
+   },
+   {
+    "speaker": "nicholson",
+    "name": "Mil Nicholson",
+    "gender": "female",
+    "description": "fine-tuned",
+    "source": "LibriVox: Great Expectations (Version 3) (http://librivox.org/great-expectations-version-3-by-charles-dickens/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/nicholson.mp3"
+   },
+   {
+    "speaker": "samuel",
+    "name": "Cori Samuel",
+    "gender": "female",
+    "description": "fine-tuned",
+    "source": "LibriVox: Frankenstein (1818); Black Beauty (http://librivox.org/frankenstein-or-the-modern-prometheus-1818-by-mary-wollstonecraft-shelley/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/samuel.mp3"
+   },
+   {
+    "speaker": "smith",
+    "name": "Mark F. Smith",
+    "gender": "male",
+    "description": "fine-tuned",
+    "source": "LibriVox: The Swiss Family Robinson; The Adventures of Sherlock Holmes (http://librivox.org/the-swiss-family-robinson-by-johann-david-wyss/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/smith.mp3"
+   },
+   {
+    "speaker": "taylor",
+    "name": "Helen Taylor",
+    "gender": "female",
+    "description": "fine-tuned",
+    "source": "LibriVox: The Enchanted April (version 2); The Benefactress (http://librivox.org/the-enchanted-april-version-2-by-elizabeth-von-arnim/)",
+    "license": "Public domain",
+    "preview": "previews/librivox-narrators-v1/taylor.mp3"
+   }
+  ]
+ }
+]
